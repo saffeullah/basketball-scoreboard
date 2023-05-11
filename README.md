@@ -3,7 +3,7 @@
 ## Overview
 
 ### Screenshot
-![](Images/image.jpg)
+![](Desktop.png)
 
 ### Links
 
