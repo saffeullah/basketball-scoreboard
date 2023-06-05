@@ -1,6 +1,7 @@
 let guestEl = document.getElementById("guest-score")
 let homeEl = document.getElementById("home-score")
 
+// this function takes team and score variables and based on the parameters calculates the score of that particular team
 function score(team, score){
     let homeScore = parseInt(homeEl.textContent)
     let guestScore = parseInt(guestEl.textContent)
